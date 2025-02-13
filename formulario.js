@@ -43,7 +43,7 @@ let corteLinea = document.createElement("br");
 document.body.appendChild(corteLinea);
 document.body.appendChild(botonBorrar); */
 
-/* Se repite borrar aqui abajo dentro de la funcion y este borrar no funcionaba */
+/* Se repite borrar aqui abajo dentro de la funcion y este borrar no funcionaba porque fuera de la funcion */
 
 function agregarInvitado(nombre, edad, nacionalidad) {
 
