@@ -11,7 +11,7 @@ formulario.onsubmit = function(e) {
   let age = formulario.elements[1]; // Mismo caso, "e" lo cambie por age
   let nationality = formulario.elements[2]; // "na" lo cambie por nationality 
 
-  // A partir de aqui modifique estos nombres de las declaraciones aqui abajo
+  // A partir de aqui modifique las variables de las declaraciones aqui abajo
 
   let nombre = name.value;
   let edad = age.value;
